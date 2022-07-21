@@ -7,8 +7,8 @@ var symbol = ["!", "@", "#", "$", "%", "^", "&", "*", "(", ")","?","<",">","/"];
 var lowerCase = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"];
 var upperCase = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 
-// Created funtion to ask user what they wanted their password to contain. 
-// Made conditional statements to make sure that minimum reuirements were met
+// Created funtion to ask user what they want password to contain. 
+// Made conditional statements to make sure that minimum requirements are met
 function questions() {
   var isValid = false;
   do {
@@ -37,7 +37,7 @@ function questions() {
   return responses;
 }
 
-// Function joins all the responses of the user and generates a password
+// Function joins all the criteria user chooses and generates a password
 function generatePassword() {
   var passwordOptions = questions();
   var possibleCombos = [];
