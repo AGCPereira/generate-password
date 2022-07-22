@@ -25,5 +25,5 @@ A website that helps generate a password based on criteria that the user chooses
 <img width="1440" alt="Screen Shot 2022-07-21 at 12 32 53 AM" src="https://user-images.githubusercontent.com/106856333/180130436-0868dc8e-7ede-47bf-9085-bb95883b0ccd.png">
 
 ## URL of deployed application
-https://agcpereira.github.io/generate-password/
-https://github.com/AGCPereira/generate-password.git
+* https://agcpereira.github.io/generate-password/
+* https://github.com/AGCPereira/generate-password.git
