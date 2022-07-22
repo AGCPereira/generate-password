@@ -14,11 +14,13 @@ A website that helps generate a password based on criteria that the user chooses
 * CSS
 * JavaScript (only worked on JavaScript)
 
-# Screenshots
+## Screenshots
 * User has to choose a password between 8 and 128
 <img width="1440" alt="Screen Shot 2022-07-21 at 12 16 19 AM" src="https://user-images.githubusercontent.com/106856333/180129246-f1b0444f-2b06-46d7-bcf8-6a32f4f6a962.png">
+
 * Prompts user to choose at least one character type
 <img width="1440" alt="Screen Shot 2022-07-21 at 12 19 14 AM" src="https://user-images.githubusercontent.com/106856333/180129413-a6f6a017-f485-4793-8b80-6238c750a84d.png">
+
 * When all prompts are answered
 <img width="1440" alt="Screen Shot 2022-07-21 at 12 32 53 AM" src="https://user-images.githubusercontent.com/106856333/180130436-0868dc8e-7ede-47bf-9085-bb95883b0ccd.png">
 
